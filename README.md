@@ -1,7 +1,7 @@
 # peer-reviewed journal articles
 ------
 
-1. Chan, Nathan W. and Casey J. Wichman. ["Climate change and recreation: Evidence and North American cycling."] _Environmental and Resource Economics_ 76 (2020): 119-151.
+1. Chan, Nathan W. and Casey J. Wichman. ["Climate change and recreation: Evidence and North American cycling."](https://github.com/cjwichman/publications/blob/master/chan_wichman_ERE_2020.pdf) _Environmental and Resource Economics_ 76 (2020): 119-151.
 
 2. Bellemare, Marc F. and Casey J. Wichman. ["Elasticities and the inverse hyperbolic sine transformation."](https://github.com/cjwichman/publications/blob/master/bellemare_wichman_OBES_2019.pdf) _Oxford Bulletin of Economics and Statistics_ 82 (2020): 50-61.
 
