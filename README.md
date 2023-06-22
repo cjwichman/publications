@@ -6,15 +6,15 @@
 
 2. Wichman, Casey J. and Nathan W. Chan, “Preheating prosocial behaviour,” The Economic Journal, 2023.
 
-3. Wichman, Casey J. and Brandon Cunningham, “Notching for free: Do cyclists reveal the value of time?” Journal of Environmental Economics and Management, 2023.
+3. Wichman, Casey J. and Brandon Cunningham, [“Notching for free: Do cyclists reveal the value of time?”](https://github.com/cjwichman/publications/blob/master/wichman_cunningham_JEEM_2023.pdf) _Journal of Environmental Economics and Management_, 2023.
 
-4. Cardoso, Diego S. and Casey J. Wichman, “Water affordability in the United States,” Water Resources Research, 2022.
+4. Cardoso, Diego S. and Casey J. Wichman, [“Water affordability in the United States,”](https://github.com/cjwichman/publications/blob/master/cardoso_wichman_WRR_2022.pdf) _Water Resources Research_, 2022.
 
-5. Chan, Nathan W. and Casey J. Wichman, “Valuing nonmarket impacts of climate change on recreation: From reduced form to welfare,” Environmental and Resource Economics, 2022.
+5. Chan, Nathan W. and Casey J. Wichman, [“Valuing nonmarket impacts of climate change on recreation: From reduced form to welfare,”](https://github.com/cjwichman/publications/blob/master/chan_wichman_ERE_2020.pdf) _Environmental and Resource Economics_, 2022.
 
-6. Lewis, Lynne and Casey J. Wichman, “What should we be teaching students about the economics of climate change: Is there a consensus?” International Review of Environmental and Resource Economics, 2021.
+6. Lewis, Lynne and Casey J. Wichman, [“What should we be teaching students about the economics of climate change: Is there a consensus?”](https://github.com/cjwichman/publications/blob/master/lewis_wichman_IRERE_2021.pdf) _International Review of Environmental and Resource Economics_, 2021.
 
-7. Cunningham, Brandon, Jacob LaRiviere, and Casey J. Wichman, “Clustered into control: Heterogeneous causal impacts of water infrastructure failure,” Economic Inquiry, 2021.
+7. Cunningham, Brandon, Jacob LaRiviere, and Casey J. Wichman, [“Clustered into control: Heterogeneous causal impacts of water infrastructure failure,”](https://github.com/cjwichman/publications/blob/master/cunningham_etal_EI_2021.pdf) _Economic Inquiry_, 2021.
 
 8. Chan, Nathan W. and Casey J. Wichman. ["Climate change and recreation: Evidence and North American cycling."](https://github.com/cjwichman/publications/blob/master/chan_wichman_ERE_2020.pdf) _Environmental and Resource Economics_ 76 (2020): 119-151.
 
