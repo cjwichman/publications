@@ -2,9 +2,9 @@
 ------
 
 
-1. Prest, Brian, Casey J. Wichman, and Karen Palmer, “RCTs against the machine: Can ML prediction methods recover experimental treatment effects?” Journal of the Association of Environmental and Resource Economists, 2023.
+1. Prest, Brian, Casey J. Wichman, and Karen Palmer, “RCTs against the machine: Can ML prediction methods recover experimental treatment effects?” _Journal of the Association of Environmental and Resource Economists_, 2023.
 
-2. Wichman, Casey J. and Nathan W. Chan, “Preheating prosocial behaviour,” The Economic Journal, 2023.
+2. Wichman, Casey J. and Nathan W. Chan, “Preheating prosocial behaviour,” _The Economic Journal_, 2023.
 
 3. Wichman, Casey J. and Brandon Cunningham, [“Notching for free: Do cyclists reveal the value of time?”](https://github.com/cjwichman/publications/blob/master/wichman_cunningham_JEEM_2023.pdf) _Journal of Environmental Economics and Management_, 2023.
 
