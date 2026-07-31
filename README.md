@@ -1,37 +1,46 @@
 # peer-reviewed journal articles
 ------
 
+22. Wichman, Casey J., [“Winters of discontent,”](https://github.com/cjwichman/publications/blob/master/wichman_JPUBEC_2026.pdf) _Journal of Public Economics_, 2026.
 
-1. Prest, Brian, Casey J. Wichman, and Karen Palmer, “RCTs against the machine: Can ML prediction methods recover experimental treatment effects?” _Journal of the Association of Environmental and Resource Economists_, 2023.
+21. Wichman, Casey J., [“The economics of equity and affordability in residential water pricing,"](https://github.com/cjwichman/publications/blob/master/wichman_WEP_2025.pdf) _Water Economics and Policy_, 2025.
 
-2. Wichman, Casey J. and Nathan W. Chan, “Preheating prosocial behaviour,” _The Economic Journal_, 2023.
+20.  Lang, Corey, Casey J. Wichman, Michael Weir, Shanna Pearson-Merkowitz, [“Cost misperception and voting for public goods,”](https://github.com/cjwichman/publications/blob/master/lang_wichman_weir_pearson-merkowtiz_AJAE_2024.pdf) _American Journal of Agricultural Economics_, 2025.
 
-3. Wichman, Casey J. and Brandon Cunningham, [“Notching for free: Do cyclists reveal the value of time?”](https://github.com/cjwichman/publications/blob/master/wichman_cunningham_JEEM_2023.pdf) _Journal of Environmental Economics and Management_, 2023.
+19. Blonz, Joshua, Karen Palmer, Casey J. Wichman, and Derek C. Wietelman, [“Automation, smart thermostats, and time-varying prices,”](https://github.com/cjwichman/publications/blob/master/blonz_palmer_wichman_wietelman_AEJApplied_2025.pdf) _American Economic Journal: Applied Economics_, 2025.
 
-4. Cardoso, Diego S. and Casey J. Wichman, [“Water affordability in the United States,”](https://github.com/cjwichman/publications/blob/master/cardoso_wichman_WRR_2022.pdf) _Water Resources Research_, 2022.
+18. Wichman, Casey J., [“Social media influences National Park visitation,”](https://github.com/cjwichman/publications/blob/master/wichman_PNAS_2024.pdf) _Proceedings of the National Academies of Sciences_, 2024.
 
-5. Chan, Nathan W. and Casey J. Wichman, [“Valuing nonmarket impacts of climate change on recreation: From reduced form to welfare,”](https://github.com/cjwichman/publications/blob/master/chan_wichman_ERE_2020.pdf) _Environmental and Resource Economics_, 2022.
+17. Prest, Brian, Casey J. Wichman, and Karen Palmer, [“RCTs against the machine: Can ML prediction methods recover experimental treatment effects?”](https://github.com/cjwichman/publications/blob/master/prest_wichman_palmer_JAERE_2023.pdf) _Journal of the Association of Environmental and Resource Economists_, 2023.
 
-6. Lewis, Lynne and Casey J. Wichman, [“What should we be teaching students about the economics of climate change: Is there a consensus?”](https://github.com/cjwichman/publications/blob/master/lewis_wichman_IRERE_2021.pdf) _International Review of Environmental and Resource Economics_, 2021.
+16. Wichman, Casey J. and Nathan W. Chan, [“Preheating prosocial behaviour,”](https://github.com/cjwichman/publications/blob/master/wichman_chan_EJ_2023) _The Economic Journal_, 2023.
 
-7. Cunningham, Brandon, Jacob LaRiviere, and Casey J. Wichman, [“Clustered into control: Heterogeneous causal impacts of water infrastructure failure,”](https://github.com/cjwichman/publications/blob/master/cunningham_etal_EI_2021.pdf) _Economic Inquiry_, 2021.
+15. Wichman, Casey J. and Brandon Cunningham, [“Notching for free: Do cyclists reveal the value of time?”](https://github.com/cjwichman/publications/blob/master/wichman_cunningham_JEEM_2023.pdf) _Journal of Environmental Economics and Management_, 2023.
 
-8. Chan, Nathan W. and Casey J. Wichman. ["Climate change and recreation: Evidence and North American cycling."](https://github.com/cjwichman/publications/blob/master/chan_wichman_ERE_2020.pdf) _Environmental and Resource Economics_ 76 (2020): 119-151.
+14. Cardoso, Diego S. and Casey J. Wichman, [“Water affordability in the United States,”](https://github.com/cjwichman/publications/blob/master/cardoso_wichman_WRR_2022.pdf) _Water Resources Research_, 2022.
+
+13. Chan, Nathan W. and Casey J. Wichman, [“Valuing nonmarket impacts of climate change on recreation: From reduced form to welfare,”](https://github.com/cjwichman/publications/blob/master/chan_wichman_ERE_2020.pdf) _Environmental and Resource Economics_, 2022.
+
+12. Lewis, Lynne and Casey J. Wichman, [“What should we be teaching students about the economics of climate change: Is there a consensus?”](https://github.com/cjwichman/publications/blob/master/lewis_wichman_IRERE_2021.pdf) _International Review of Environmental and Resource Economics_, 2021.
+
+11. Cunningham, Brandon, Jacob LaRiviere, and Casey J. Wichman, [“Clustered into control: Heterogeneous causal impacts of water infrastructure failure,”](https://github.com/cjwichman/publications/blob/master/cunningham_etal_EI_2021.pdf) _Economic Inquiry_, 2021.
+
+10. Chan, Nathan W. and Casey J. Wichman. ["Climate change and recreation: Evidence and North American cycling."](https://github.com/cjwichman/publications/blob/master/chan_wichman_ERE_2020.pdf) _Environmental and Resource Economics_ 76 (2020): 119-151.
 
 9. Bellemare, Marc F. and Casey J. Wichman. ["Elasticities and the inverse hyperbolic sine transformation."](https://github.com/cjwichman/publications/blob/master/bellemare_wichman_OBES_2019.pdf) _Oxford Bulletin of Economics and Statistics_ 82 (2020): 50-61.
 
-10. Wichman, Casey J. ["Interpreting nonlinear semi-elasticities in reduced-form climate damage estimation."](https://github.com/cjwichman/publications/blob/master/wichman_CC_2018.pdf) _Climatic Change_ 148.4 (2018): 641-648.
+8. Wichman, Casey J. ["Interpreting nonlinear semi-elasticities in reduced-form climate damage estimation."](https://github.com/cjwichman/publications/blob/master/wichman_CC_2018.pdf) _Climatic Change_ 148.4 (2018): 641-648.
 
-11. Eyer, Jonathan, and Casey J. Wichman. ["Does water scarcity shift the electricity generation mix toward fossil fuels? Empirical evidence from the United States."](https://github.com/cjwichman/publications/blob/master/eyer_wichman_JEEM_2018.pdf) _Journal of Environmental Economics and Management_ 87 (2018): 224-241.
+7. Eyer, Jonathan, and Casey J. Wichman. ["Does water scarcity shift the electricity generation mix toward fossil fuels? Empirical evidence from the United States."](https://github.com/cjwichman/publications/blob/master/eyer_wichman_JEEM_2018.pdf) _Journal of Environmental Economics and Management_ 87 (2018): 224-241.
 
-12. Hamilton, Timothy L., and Casey J. Wichman. ["Bicycle infrastructure and traffic congestion: Evidence from DC's Capital Bikeshare."](https://github.com/cjwichman/publications/blob/master/hamilton_wichman_JEEM_2018.pdf) _Journal of Environmental Economics and Management_ 87 (2018): 72-93.
+6. Hamilton, Timothy L., and Casey J. Wichman. ["Bicycle infrastructure and traffic congestion: Evidence from DC's Capital Bikeshare."](https://github.com/cjwichman/publications/blob/master/hamilton_wichman_JEEM_2018.pdf) _Journal of Environmental Economics and Management_ 87 (2018): 72-93.
 
-13. Wichman, Casey J. ["Information provision and consumer behavior: A natural experiment in billing frequency."](https://github.com/cjwichman/publications/blob/master/wichman_JPUBE_2017.pdf) _Journal of Public Economics_ 152 (2017): 13-33.
+5. Wichman, Casey J. ["Information provision and consumer behavior: A natural experiment in billing frequency."](https://github.com/cjwichman/publications/blob/master/wichman_JPUBE_2017.pdf) _Journal of Public Economics_ 152 (2017): 13-33.
 
-14. Wichman, Casey J., and Paul J. Ferraro. ["A cautionary tale on using panel data estimators to measure program impacts."](https://github.com/cjwichman/publications/blob/master/wichman_ferraro_EL_2017.pdf) _Economics Letters_ 151 (2017): 82-90.
+4. Wichman, Casey J., and Paul J. Ferraro. ["A cautionary tale on using panel data estimators to measure program impacts."](https://github.com/cjwichman/publications/blob/master/wichman_ferraro_EL_2017.pdf) _Economics Letters_ 151 (2017): 82-90.
 
-15. Wichman, Casey J. ["Incentives, green preferences, and private provision of impure public goods."](https://github.com/cjwichman/publications/blob/master/wichman_JEEM_2016.pdf) _Journal of Environmental Economics and Management_ 79 (2016): 208-220.
+3. Wichman, Casey J. ["Incentives, green preferences, and private provision of impure public goods."](https://github.com/cjwichman/publications/blob/master/wichman_JEEM_2016.pdf) _Journal of Environmental Economics and Management_ 79 (2016): 208-220.
 
-16. Wichman, Casey J., Laura O. Taylor, and Roger H. Von Haefen. ["Conservation policies: Who responds to price and who responds to prescription?."](https://github.com/cjwichman/publications/blob/master/wichman_etal_JEEM_2016.pdf) _Journal of Environmental Economics and Management_ 79 (2016): 114-134.
+2. Wichman, Casey J., Laura O. Taylor, and Roger H. Von Haefen. ["Conservation policies: Who responds to price and who responds to prescription?."](https://github.com/cjwichman/publications/blob/master/wichman_etal_JEEM_2016.pdf) _Journal of Environmental Economics and Management_ 79 (2016): 114-134.
 
-17. Wichman, Casey J. ["Perceived price in residential water demand: Evidence from a natural experiment."](https://github.com/cjwichman/publications/blob/master/wichman_JEBO_2014.pdf) _Journal of Economic Behavior & Organization_ 107 (2014): 308-323.
+1. Wichman, Casey J. ["Perceived price in residential water demand: Evidence from a natural experiment."](https://github.com/cjwichman/publications/blob/master/wichman_JEBO_2014.pdf) _Journal of Economic Behavior & Organization_ 107 (2014): 308-323.
